@@ -30,3 +30,13 @@ Ingested IP & Commercial Court landmark judgment on UMC/Micron DRAM trade secret
 - Raw source: `raw/cases/2022-01-27-IP法院-刑智上重訴4-美光聯電-DRAM營業秘密.md` (partial — full 134K text at source URL)
 - Index updated.
 - Pages touched: 1 summary, 1 concept (updated), index.md, log.md
+
+## [2026-05-25] ingest | 107年度刑智上訴字第5號 — TSMC 列印攔截案
+
+Ingested IP Court judgment on TSMC engineer who printed 28nm trade secrets for China job, caught by internal print monitoring before documents left his home. Article 13-2 (intent to use in mainland China) applied. Key insight: low-cost print log monitoring + exit review = early interception before damage. Contrasts with Micron's expensive DLP approach.
+
+- Summary: `wiki/summaries/20180920-IP法院-台積電-營業秘密-事前攔截.md`
+- Concept updated: `wiki/concepts/合理保密措施.md` — added 3rd source, new tension on monitoring's dual value (proof + interception)
+- Raw source: `raw/cases/2018-09-20-IP法院-刑智上訴5-台積電-營業秘密.md` (full, 12.6K chars)
+- Index updated.
+- Pages touched: 1 summary, 1 concept (updated), index.md, log.md
