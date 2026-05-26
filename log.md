@@ -40,3 +40,15 @@ Ingested IP Court judgment on TSMC engineer who printed 28nm trade secrets for C
 - Raw source: `raw/cases/2018-09-20-IP法院-刑智上訴5-台積電-營業秘密.md` (full, 12.6K chars)
 - Index updated.
 - Pages touched: 1 summary, 1 concept (updated), index.md, log.md
+
+## [2026-05-26] ingest | 114年度刑智上重訴字第5號 — TSMC 逾越授權重製案（OpenData批次）
+
+Ingested from Judicial Yuan OpenData batch (202603 dataset). Second TSMC 28nm case.
+Key rulings: (1) Article 13-2 NOT applied — no pre-printing evidence of overseas intent,
+court refused to infer from post-employment at SMIC; (2) Breach of trust NOT applied —
+mere reproduction without use/leak ≠ property damage. Singaporean defendant, not deported.
+
+- Summary: `wiki/summaries/20260305-IP法院-TSMC-營業秘密-逾越重製.md`
+- Raw source: `raw/cases/2026-03-05-IP法院-刑智上重訴5-TSMC-營業秘密.md` (from OpenData JSON)
+- Index updated.
+- Pages touched: 1 summary, index.md, log.md
