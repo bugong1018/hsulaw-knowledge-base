@@ -52,3 +52,13 @@ mere reproduction without use/leak ≠ property damage. Singaporean defendant, n
 - Raw source: `raw/cases/2026-03-05-IP法院-刑智上重訴5-TSMC-營業秘密.md` (from OpenData JSON)
 - Index updated.
 - Pages touched: 1 summary, index.md, log.md
+
+## [2026-05-26] ingest | 112年度刑智上重訴字第8號 — IC設計工商秘密案 + 2 raw saves
+
+OpenData batch processing. Ingested IC design VP case (non-semiconductor!):
+- Conviction under Criminal Code §317 (not Trade Secrets Act)
+- Trade secrets used as in-kind capital contribution (NT$700K confiscated)
+- Discovered via product reverse-engineering (unique detection mechanism)
+
+Also saved raw: 112-刑智上重訴-6 (optical film) and 113-刑營訴-11.
+More months still extracting. Full scan pending.
